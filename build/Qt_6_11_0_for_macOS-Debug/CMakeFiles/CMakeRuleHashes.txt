@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+c235c0d8cbbca59938f2522736081041 CMakeFiles/quan_autogen
+a757181201e69f36ba5de9bdc298d8c3 quan_autogen/timestamp
